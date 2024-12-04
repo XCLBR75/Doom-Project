@@ -1,0 +1,20 @@
+# Ignore Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+BuildSettings/
+
+# Ignore Unity specific files
+.vs/
+.vscode/
+.idea/
+.user
+.userprefs
+.lighting
+.navmesh
+.unitypackage
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
